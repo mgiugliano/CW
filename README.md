@@ -26,6 +26,7 @@ If venturing in this direction and not particularly familiar with C programming,
 In order to compile the two utilities, simply invoke from the command line:
 
 > gcc -o CWSingle CWSingle.c -O
+
 > gcc -o CWPairs CWPairs.c -O
 
 Note that the most convenient way to put GCC on your Mac is to get the "Command Line Tools" dmg from https://developer.apple.com/downloads/ (~120 MB). You must create a (free) developer account in order to access that website. Or you could download the entire Xcode8 installer (~4 GB). 
