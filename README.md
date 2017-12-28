@@ -2,6 +2,7 @@
 My own command line utilities to learn and practice CW (Morse Code)
 
 22/1/2017 - Michele Giugliano (mgiugliano@gmail.com)
+28/12/2017 - Bug fix and improvements
 
 CWSingle and CWPairs
 
